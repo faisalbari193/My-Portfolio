@@ -15,7 +15,7 @@
 .secondary-bg{
     background-color: #FFF8F3;
 }
-.text-primay{
+.text-primary{
     color: #FD6E0A;
 }
 .ul-color{
@@ -48,7 +48,8 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 0 200px;
+    /* margin: 50px 200px; */
+    margin: 0px 200px;
 }
 nav ul{
     display: flex;
@@ -66,7 +67,7 @@ nav ul li{
     text-decoration: none;
     font-size: 20px;
  }
-/* banner style */
+/* banner styles */
 .banner{
     display: flex;
     justify-content: space-between;
@@ -104,7 +105,7 @@ main section{
     border-radius: 10px;
     padding: 130px 150px;
     text-align: center;
-    
+    margin-top: 130px;
 }
 .about-items{
     display: flex;
